@@ -91,8 +91,9 @@ nav:
     - Purpose: overview/purpose.md
     - Background to ML-KEM: overview/mlkem.md
     - Choosing an implementation: overview/choosing-implementation.md
+    - Assurance: overview/assurance.md
   - Algorithm Implementations:
-    - Implementations and characteristics: implementations/index.md
+    - Implementations: implementations/index.md
     - ML-KEM generic C implementation: implementations/mlkem-c-generic.md
     - ML-KEM optimized C (embedded): implementations/mlkem-c-embedded.md
     - ML-KEM optimized C (aarch64): implementations/mlkem-c-aarch64.md

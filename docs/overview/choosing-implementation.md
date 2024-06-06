@@ -10,8 +10,6 @@ These vary in certain characteristics in terms of:
 * Platform specific optimizations (memory, cpu, ...)
 * Implementation Language
 
-Additionally as sub-projects onboard to pq-code-package they will go through a variety of stages before being ready to use 
+Additionally as sub-projects onboard to pq-code-package they will go through a variety of stages before being ready to use .
 
-More guidance about how to choose an implementation will be added in future. 
-
-For now go to the [list of repositories](../contributing/repositories.md) & view the other pages in this section
+See also the [list of repositories](../contributing/repositories.md) & view the other pages in this section
